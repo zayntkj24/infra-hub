@@ -20,7 +20,7 @@ Jika Anda belum mengonfigurasi domain, Anda dapat melakukan konfigurasi DNS Serv
 #### Panduan Instalasi
 
 Ikuti langkah-langkah konfigurasi lengkap pada tautan dokumentasi berikut:
-👉 [Dokumentasi Instalasi PowerDNS nandaDev](https://nandadev.vercel.app/docs/installasi-powerdns)
+👉 [Dokumentasi Instalasi PowerDNS nandaDev](https://nandalinux.vercel.app/docs/installasi-powerdns)
 
 ## Step 1 — Instalasi Postfix dan Dovecot
 
