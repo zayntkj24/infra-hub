@@ -124,7 +124,7 @@ Y
                                                                    
                 Installation time  : 0 hrs 18 min 0 sec                 
                                                                    
-                Visit: https://103.155.196.63:8090                     
+                Visit: https://10.3.33.2:8090                     
                 Panel username: admin                              
                 Panel password: RDIDf9ApmBaP7eMH                        
                                                                    
