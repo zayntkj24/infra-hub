@@ -152,7 +152,30 @@ Would you like to restart your server now? [y/N]: Y
 
 ## Step 4 — Masuk browser untuk login ke cyberpanel
 
-!cyberpanel Doc](https://raw.githubusercontent.com/zayntkj24/infra-hub/main/public/1cp.png)
+![cyberpanel Doc](https://raw.githubusercontent.com/zayntkj24/infra-hub/main/public/1cp.png)
 
-!cyberpanel Doc](https://raw.githubusercontent.com/zayntkj24/infra-hub/main/public/2cp.png)
+![cyberpanel Doc](https://raw.githubusercontent.com/zayntkj24/infra-hub/main/public/2cp.png)
 
+## Penutup
+
+Selamat! CyberPanel telah berhasil diinstal pada Ubuntu Server 24.04 dan siap digunakan untuk mengelola website, domain, DNS, database, email, serta berbagai layanan hosting melalui antarmuka web yang mudah digunakan.
+
+Setelah proses instalasi selesai, pastikan seluruh layanan berjalan dengan baik menggunakan systemctl, kemudian lakukan pengamanan awal dengan mengganti password administrator, mengaktifkan firewall sesuai kebutuhan, serta membuka port yang diperlukan pada server atau penyedia VPS.
+
+Untuk mengakses panel, buka browser dan kunjungi:
+
+https://IP_SERVER:8090
+
+Masuk menggunakan akun administrator yang dibuat saat instalasi.
+
+Masuk menggunakan akun administrator yang dibuat saat instalasi.
+
+Dengan CyberPanel yang telah aktif, Anda dapat mulai membuat website, mengelola domain, memasang sertifikat SSL, menginstal WordPress, serta memanfaatkan berbagai fitur OpenLiteSpeed untuk meningkatkan performa server.
+
+Selamat mencoba dan semoga bermanfaat!
+
+## Kesimpulan
+
+CyberPanel merupakan control panel web hosting berbasis OpenLiteSpeed yang memudahkan pengelolaan server melalui antarmuka web. Dengan mengikuti langkah-langkah instalasi pada Ubuntu Server 24.04, CyberPanel dapat digunakan untuk mengelola website, domain, database, DNS, email, SSL, hingga instalasi WordPress secara lebih mudah dan efisien.
+
+Proses instalasi yang berhasil menunjukkan bahwa seluruh komponen utama telah terpasang dan siap digunakan. Selanjutnya, administrator dapat melakukan konfigurasi lanjutan sesuai kebutuhan, seperti menambahkan domain, membuat website, mengelola layanan email, serta meningkatkan keamanan server agar layanan dapat berjalan dengan optimal.
