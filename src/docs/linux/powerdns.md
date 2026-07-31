@@ -621,7 +621,6 @@ Pada tahap pengujian, zona DNS `nanda24.com` berhasil dibuat dan dikonfigurasi d
 Dengan selesainya konfigurasi ini, server telah memiliki layanan DNS yang berjalan dengan baik dan dapat menjadi dasar untuk membangun layanan jaringan lainnya. Konfigurasi PowerDNS ini dapat dikembangkan lebih lanjut untuk kebutuhan publik dengan menambahkan konfigurasi nameserver, keamanan DNS, serta integrasi dengan layanan seperti mail server menggunakan Postfix, Dovecot, dan Roundcube.
 
 Implementasi PowerDNS dan Poweradmin ini memberikan pemahaman mengenai cara kerja DNS Server, pengelolaan zona domain, pembuatan subdomain, serta integrasi antara layanan database, web server, dan sistem jaringan pada lingkungan Ubuntu Server 24.04 LTS.
----
 
 # Referensi
 
