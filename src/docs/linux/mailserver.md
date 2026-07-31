@@ -31,11 +31,11 @@ sudo apt install postfix dovecot-imapd dovecot-pop3d
 ### Konfigurasi Postfix
 Setelah installasi selesai akan muncul message
 
-![Mail Server Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub-portofolio/main/public/1mail.png)
+![Mail Server Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub/main/public/1mail.png)
 
 Lalu masukaan nama domain yang akan digunakan.
 
-![Mail Server Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub-portofolio/main/public/2mail.png)
+![Mail Server Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub/main/public/2mail.png)
 
 #### Konfigurasi file /etc/postfix/main.cf
 
@@ -70,25 +70,25 @@ sudo dpkg-reconfigure postfix
  
 Ikuti langkah sebagai berikut
 
-![Mail Server Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub-portofolio/main/public/1mail.png)
+![Mail Server Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub/main/public/1mail.png)
 
-![Mail Server Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub-portofolio/main/public/2mail.png)
+![Mail Server Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub/main/public/2mail.png)
 
-![Mail Server Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub-portofolio/main/public/3mail.png)
+![Mail Server Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub/main/public/3mail.png)
 
-![Mail Server Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub-portofolio/main/public/4mail.png)
+![Mail Server Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub/main/public/4mail.png)
 
-![Mail Server Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub-portofolio/main/public/5mail.png)
+![Mail Server Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub/main/public/5mail.png)
 
 Tambah IP 0.0.0.0/0 dipaling belakang
 
-![Mail Server Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub-portofolio/main/public/6mail.png)
+![Mail Server Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub/main/public/6mail.png)
 
-![Mail Server Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub-portofolio/main/public/7mail.png)
+![Mail Server Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub/main/public/7mail.png)
 
-![Mail Server Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub-portofolio/main/public/8mail.png)
+![Mail Server Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub/main/public/8mail.png)
 
-![Mail Server Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub-portofolio/main/public/9mail.png)
+![Mail Server Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub/main/public/9mail.png)
 
 #### Restart Postfix
 
@@ -228,11 +228,11 @@ sudo apt install mariadb-server roundcube
 ```
 Ikutt langkah-langkah sebagai berikut
 
-![Mail Server Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub-portofolio/main/public/10mail.png)
+![Mail Server Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub/main/public/10mail.png)
 
-![Mail Server Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub-portofolio/main/public/11mail.png)
+![Mail Server Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub/main/public/11mail.png)
 
-![Mail Server Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub-portofolio/main/public/12mail.png)
+![Mail Server Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub/main/public/12mail.png)
 
 ### Konfigurasi file /etc/roundcube/config.inc.php
 
@@ -276,17 +276,17 @@ sudo dpkg-reconfigure roundcube-core
 
 Ikuti langkah-langkah dibawah ini
 
-![Mail Server Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub-portofolio/main/public/13mail.png)
+![Mail Server Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub/main/public/13mail.png)
 
-![Mail Server Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub-portofolio/main/public/14mail.png)
+![Mail Server Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub/main/public/14mail.png)
 
-![Mail Server Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub-portofolio/main/public/15mail.png)
+![Mail Server Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub/main/public/15mail.png)
 
-![Mail Server Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub-portofolio/main/public/16mail.png)
+![Mail Server Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub/main/public/16mail.png)
 
-![Mail Server Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub-portofolio/main/public/17mail.png)
+![Mail Server Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub/main/public/17mail.png)
 
-![Mail Server Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub-portofolio/main/public/18mail.png)
+![Mail Server Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub/main/public/18mail.png)
 
 ### Konfigurasi apache untuk membuat konfigurasi tambahan untuk roundcube
 
@@ -332,32 +332,32 @@ sudo systemctl restart apache2
 
 #### Login user nanda
 
-![Mail Server Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub-portofolio/main/public/19mail.png)
+![Mail Server Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub/main/public/19mail.png)
 
 
-![Mail Server Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub-portofolio/main/public/20mail.png)
+![Mail Server Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub/main/public/20mail.png)
 
 Klik tombol compose
 
-![Mail Server Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub-portofolio/main/public/21mail.png)
+![Mail Server Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub/main/public/21mail.png)
 
 Isi pesan email sesuka hati kalian
 
-![Mail Server Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub-portofolio/main/public/22mail.png)
+![Mail Server Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub/main/public/22mail.png)
 
 Lalu logout dari user nanda
 
-![Mail Server Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub-portofolio/main/public/23mail.png)
+![Mail Server Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub/main/public/23mail.png)
 
 #### Login user akbar
 
-![Mail Server Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub-portofolio/main/public/24mail.png)
+![Mail Server Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub/main/public/24mail.png)
 
-![Mail Server Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub-portofolio/main/public/25mail.png)
+![Mail Server Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub/main/public/25mail.png)
 
 Lalu klik pesan yang terkirim dari user nanda
 
-![Mail Server Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub-portofolio/main/public/26mail.png)
+![Mail Server Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub/main/public/26mail.png)
 
 ## Evaluasi & Catatan Ringkas
 
