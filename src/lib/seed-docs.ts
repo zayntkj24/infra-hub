@@ -13,7 +13,9 @@ import dockerMd     from "../docs/linux/docker.md?raw";
 import powerdnsMd   from "../docs/linux/powerdns.md?raw";
 import librenmsMd   from "../docs/linux/librenms.md?raw";
 import wordpressMd  from "../docs/linux/wordpress.md?raw";
-import cyberpanelMd  from "../docs/linux/cyberpanel.md?raw";
+import cyberpanelMd from "../docs/linux/cyberpanel.md?raw";
+import wazuhlMd     from "../docs/linux/wazuh.md?raw";
+
 
 export interface SeedDoc {
   slug: string;
@@ -31,6 +33,7 @@ const DOC_MAP: Record<string, string> = {
   "installasi-librenms":   librenmsMd,
   "installasi-wordpress":  wordpressMd,
   "installasi-cyberpanel": cyberpanelMd,
+  "installasi-wazuhl":     wazuhMd,
 };
  
 /** Derive title and description from the markdown body */
