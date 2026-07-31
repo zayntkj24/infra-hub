@@ -279,7 +279,7 @@ sudo systemctl restart apache2
 
 Ikuti langkah-langkah sebagai berikut
 
-![LibreNMS Setuo](https://raw.githubusercontent.com/zayntkj24/infra-hub-portofolio/main/public/1libre.png)
+![LibreNMS Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub/main/public/1libre.png)
 
 #### Konfigurasi terlebih dahulu file /opt/librenms/.env (pastikan login di user librenms)
 
@@ -301,23 +301,23 @@ php artisan migrate --force
 
 ### Lanjut konfigurasi LibreNMS di browseer
 
-![LibreNMS Setuo](https://raw.githubusercontent.com/zayntkj24/infra-hub-portofolio/main/public/2libre.png)
+![LibreNMS Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub/main/public/2libre.png)
 
-![LibreNMS Setuo](https://raw.githubusercontent.com/zayntkj24/infra-hub-portofolio/main/public/3libre.png)
+![LibreNMS Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub/main/public/3libre.png)
 
-![LibreNMS Setuo](https://raw.githubusercontent.com/zayntkj24/infra-hub-portofolio/main/public/4libre.png)
+![LibreNMS Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub/main/public/4libre.png)
 
 
-![LibreNMS Setuo](https://raw.githubusercontent.com/zayntkj24/infra-hub-portofolio/main/public/5libre.png)
+![LibreNMS Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub/main/public/5libre.png)
 
 Selesai
 
 ## Masuk dan coba login user nandakbar
 
 
-![LibreNMS Setuo](https://raw.githubusercontent.com/zayntkj24/infra-hub-portofolio/main/public/6libre.png)
+![LibreNMS Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub/main/public/6libre.png)
 
-![LibreNMS Setuo](https://raw.githubusercontent.com/zayntkj24/infra-hub-portofolio/main/public/7libre.png)
+![LibreNMS Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub/main/public/7libre.png)
 
 ## Penutup
 
