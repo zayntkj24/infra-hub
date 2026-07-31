@@ -149,3 +149,10 @@ TCP: 25, TCP: 587, TCP: 465, TCP: 110, TCP: 143 and TCP: 993 for mail service
 TCP: 53 and UDP: 53 for DNS service
 Would you like to restart your server now? [y/N]: Y
 ```
+
+## Step 4 — Masuk browser untuk login ke cyberpanel
+
+!cyberpanel Doc](https://raw.githubusercontent.com/zayntkj24/infra-hub/main/public/1cp.png)
+
+!cyberpanel Doc](https://raw.githubusercontent.com/zayntkj24/infra-hub/main/public/2cp.png)
+
