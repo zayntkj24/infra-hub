@@ -22,6 +22,7 @@ export const DOCS: DocDef[] = [
   { slug: "installasi-librenms", name: "Installasi LibreNMS" },
   { slug: "installasi-wordpress", name: "Installasi Wordpress" },
   { slug: "installasi-cyberpanel", name: "Installasi Cyberpanel" },
+  { slug: "installasi-wazuh", name: "Installasi Wazuh" },
 
 
 ];
