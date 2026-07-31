@@ -610,7 +610,7 @@ rtt min/avg/max/mdev = 0.010/0.026/0.033/0.009 ms
 
 > Domain mail.nanda24.com berhasil di ping
 
-# Kesimpulan
+## Kesimpulan
 
 Berdasarkan proses instalasi dan konfigurasi yang telah dilakukan, PowerDNS berhasil diimplementasikan sebagai DNS Authoritative Server pada sistem operasi Ubuntu Server 24.04 LTS dengan menggunakan MariaDB sebagai database backend untuk menyimpan data zona dan record DNS. Proses instalasi mulai dari penambahan repository, konfigurasi database, pengaturan layanan PowerDNS, hingga integrasi dengan Poweradmin telah berhasil dilakukan sehingga sistem DNS dapat dikelola dengan lebih mudah melalui tampilan web.
 
