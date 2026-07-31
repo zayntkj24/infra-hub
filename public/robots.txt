@@ -1,29 +1,5 @@
 User-agent: *
 Allow: /
-
-# Allow specific search engine crawlers
-User-agent: Googlebot
-Allow: /
-
-User-agent: Bingbot
-Allow: /
-
-User-agent: Slurp
-Allow: /
-
-User-agent: DuckDuckBot
-Allow: /
-
-User-agent: Baiduspider
-Allow: /
-
-User-agent: YandexBot
-Allow: /
-
-# Allow common crawl paths
-Allow: /sitemap.xml
-Allow: /robots.txt
-
 Disallow: /admin/
 
 Sitemap: https://nandadev.vercel.app/sitemap.xml
