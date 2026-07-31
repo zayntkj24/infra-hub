@@ -92,11 +92,11 @@ sudo systemctl reload apache2
 
 Ikuti langkah-langkah berikut
 
-![Wordpress setup](https://raw.githubusercontent.com/zayntkj24/infra-hub-portofolio/main/public/1wp.png)
+![Mail Server Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub/main/public/1wp.png)
 
-![Wordpress setup](https://raw.githubusercontent.com/zayntkj24/infra-hub-portofolio/main/public/2wp.png)
+![Mail Server Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub/main/public/2wp.png)
 
-![Wordpress setup](https://raw.githubusercontent.com/zayntkj24/infra-hub-portofolio/main/public/3wp.png)
+![Mail Server Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub/main/public/3wp.png)
 
 ### Salin code yang dikasih ke folder wordpress
 
@@ -212,11 +212,11 @@ require_once ABSPATH . 'wp-settings.php';
 
 Setelah itu klik tombol **Run Installation**
 
-![Wordpress setup](https://raw.githubusercontent.com/zayntkj24/infra-hub-portofolio/main/public/4wp.png)
+![Mail Server Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub/main/public/4wp.png)
 
-![Wordpress setup](https://raw.githubusercontent.com/zayntkj24/infra-hub-portofolio/main/public/5wp.png)
+![Mail Server Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub/main/public/5wp.png)
 
-![Wordpress setup](https://raw.githubusercontent.com/zayntkj24/infra-hub-portofolio/main/public/6wp.png)
+![Mail Server Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub/main/public/6wp.png)
 
 ## Kesimuplan
 
