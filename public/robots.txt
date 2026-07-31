@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /admin/
 
-Sitemap: https://nandadev.vercel.app/sitemap.xml
+Sitemap: https://nandalinux.vercel.app/sitemap.xml
