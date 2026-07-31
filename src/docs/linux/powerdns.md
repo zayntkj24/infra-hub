@@ -215,15 +215,15 @@ sudo systemctl restart apache2
 ## Step 17 - Mengsetup Poweradmin di web browser
 Buka web browser Edge dan ketik **http://192.168.220.128/poweradmin/**
 
-![PowerDNS Web Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub-portofolio/main/public/1pdns.png)
+![PowerDNS Web Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub/main/public/1pdns.png)
 
 Memilih bahasa utama poweradmin, pilih bahasa Indonesia
 
-![PowerDNS Web Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub-portofolio/main/public/2pdns.png)
+![PowerDNS Web Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub/main/public/2pdns.png)
 
 System requirement poweradmin
 
-![PowerDNS Web Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub-portofolio/main/public/3pdns.png)
+![PowerDNS Web Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub/main/public/3pdns.png)
 
 Jika pada saat setup Poweradmin di web browser muncul error atau peringatan seperti ini:
 > **mod rewrite : Not Detected - Required for URL routing**
@@ -277,7 +277,7 @@ Lalu Save file
 
 Mengkonfigurasi koneksi database
 
-![PowerDNS Web Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub-portofolio/main/public/4pdns.png)
+![PowerDNS Web Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub/main/public/4pdns.png)
 
 > Untuk mengisi database, perlu disesuaikan dengan pembuatan database powerdns pada sebelumnya!
 
@@ -295,7 +295,7 @@ Administrator password     : Nanda_123 (untuk login web poweradmin)
 
 Setup akun dan domain
 
-![PowerDNS Web Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub-portofolio/main/public/5pdns.png)
+![PowerDNS Web Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub/main/public/5pdns.png)
 
 > Setup database untuk poweradmin sebagai berikut!
 
@@ -312,7 +312,7 @@ Secondary nameserver       : dns2.nanda24.com
 
 Konfigurasi dan menambah database poweradmin
 
-![PowerDNS Web Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub-portofolio/main/public/6pdns.png)
+![PowerDNS Web Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub/main/public/6pdns.png)
 
 Masukan perintah
 
@@ -350,7 +350,7 @@ Bye
 
 Buat konfigurasi file settings.php
 
-![PowerDNS Web Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub-portofolio/main/public/7pdns.png)
+![PowerDNS Web Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub/main/public/7pdns.png)
 
 Masuk ke file poweradmin
 
@@ -426,7 +426,7 @@ Lalu Save file
 
 Installasi selesai dan hapus direktori install
 
-![PowerDNS Web Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub-portofolio/main/public/8pdns.png)
+![PowerDNS Web Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub/main/public/8pdns.png)
 
 > Pastikan sudah masuk direktori poweradmin!
 masukan perintah untuk menghapus direktori install
@@ -437,28 +437,28 @@ sudo rm -rf install
 
 Refresh browser dan masuk ke **http://192.168.220.128/poweradmin/** 
 
-![PowerDNS Web Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub-portofolio/main/public/9(1)pdns.png)
+![PowerDNS Web Setup](![Mail Server Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub/main/public/9(1)pdns.png)
 
 Masuk tampilan login web poweradmin
 
-![PowerDNS Web Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub-portofolio/main/public/10pdns.png)
+![PowerDNS Web Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub/main/public/10pdns.png)
 
 > Untuk username dan pasword
 > username : admin dan password : Nanda_123
 
 Tampilan dashboard web Poweradmin
 
-![PowerDNS Web Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub-portofolio/main/public/11pdns.png)
+![PowerDNS Web Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub/main/public/11pdns.png)
 
 ## Step 18 - Menambah domain dan sub-domain diweb Poweradmin
 
 Klik tombol + Master Zone
 
-![PowerDNS Web Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub-portofolio/main/public/12pdns.png)
+![PowerDNS Web Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub/main/public/12pdns.png)
 
 Konfigurasi Zona domain
 
-![PowerDNS Web Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub-portofolio/main/public/13pdns.png)
+![PowerDNS Web Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub/main/public/13pdns.png)
 
 ```bash
 Zone name       : nanda24.com
@@ -471,17 +471,17 @@ Group Ownership : Administrator
 
 Hasil menambah domain **nanda24.com**
 
-![PowerDNS Web Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub-portofolio/main/public/14pdns.png)
+![PowerDNS Web Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub/main/public/14pdns.png)
 
 lalu klik tombol Add master zone
 
-![PowerDNS Web Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub-portofolio/main/public/14(1)pdns.png)
+![PowerDNS Web Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub/main/public/14(1)pdns.png)
 
 Klik dan edit zona **nanda24.com** dan record untuk membuat subdomain
 
-![PowerDNS Web Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub-portofolio/main/public/15pdns.png)
+![PowerDNS Web Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub/main/public/15pdns.png)
 
-![PowerDNS Web Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub-portofolio/main/public/16pdns.png)
+![PowerDNS Web Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub/main/public/16pdns.png)
 
 ```bash
 Klik Add another record untuk menambah subdomain
@@ -497,7 +497,7 @@ Kosongkan     MX       mail.nanda24.com   0            10
 
 Hasil konfigurasi dan menambah subdomain
 
-![PowerDNS Web Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub-portofolio/main/public/17pdns.png)
+![PowerDNS Web Setup](https://raw.githubusercontent.com/zayntkj24/infra-hub/main/public/17pdns.png)
 
 > Klik tombol berwarna biru (Apply), lalu save konfigurasi dengan cara mengklik tombol berwarna biru (Save changes)
 
