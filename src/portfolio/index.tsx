@@ -290,20 +290,20 @@ const CERTS = [
   {
     title: "Cyber Security",
     issuer: "Sertifikasi",
-    file: "https://cdn.jsdelivr.net/gh/zayntkj24/infra-hub-portofolio@main/public/certs/cyber.pdf",
+    file: "https://raw.githubusercontent.com/zayntkj24/infra-hub/main/public/certs/cyber.pdf",
     year: "2024",
   },
   {
     title: "Cyber Essentials",
     issuer: "Sertifikasi",
-    file: "https://cdn.jsdelivr.net/gh/zayntkj24/infra-hub-portofolio@main/public/certs/cybesessential.pdf",
+    file: "https://raw.githubusercontent.com/zayntkj24/infra-hub/main/public/certs/cybesessential.pdf",
     year: "2024",
   },
 ];
 
 const CV = [
   {
-    file: "https://cdn.jsdelivr.net/gh/zayntkj24/infra-hub-portofolio@main/public/cv/nandacv.pdf",
+    file: "https://raw.githubusercontent.com/zayntkj24/infra-hub/main/public/cv/nandacv.pdf",
     title: "Curriculum Vitae",
   },
 ];
