@@ -12,3 +12,29 @@ Grafana adalah perangkat lunak sumber terbuka (open-source) untuk visualisasi da
 sudo apt-get install -y apt-transport-https wget gnupg
 ```
 
+## Step 2 — Import the GPG key:
+
+```bash
+sudo mkdir -p /etc/apt/keyrings
+sudo wget -O /etc/apt/keyrings/grafana.asc https://apt.grafana.com/gpg-full.key
+sudo chmod 644 /etc/apt/keyrings/grafana.asc
+```
+
+## Step 3 — Menambahkan repositori
+
+```bash
+echo "deb [signed-by=/etc/apt/keyrings/grafana.asc] https://apt.grafana.com stable main" | sudo tee -a /etc/apt/sources.list.d/grafana.list
+```
+
+## Step 4 — Update dan upgrade packages
+
+```bash
+sudo apt-get update
+```
+
+## Step 5 — install Grafana OSS
+
+```bash
+sudo apt-get install grafana
+```
+
