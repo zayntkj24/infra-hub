@@ -1,1 +1,0 @@
-drop policy if exists "public read doc-images" on storage.objects;
